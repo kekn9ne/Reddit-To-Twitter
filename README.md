@@ -8,4 +8,4 @@
 3. Edit config file.
 4. Type ``python main.py``
 
-**Video demonstration coming soon.**
+[Click here for video demonstration.](https://youtu.be/Tm3j09yWYHU)
